@@ -6,6 +6,11 @@
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title></title>
+    <style type="text/css">
+        .auto-style1 {
+            height: 28px;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -42,7 +47,7 @@
                     <ItemTemplate>
                         <tr>
                             <td>
-                                <h2></h2>
+                                <h2>test</h2>
                             </td>
                         </tr>
                     </ItemTemplate>
