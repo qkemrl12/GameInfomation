@@ -11,7 +11,6 @@ namespace Princess_Connect_Web.CharacterInfo
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
         }
     }
 }
